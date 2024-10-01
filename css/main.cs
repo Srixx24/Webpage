@@ -117,6 +117,7 @@ body {
 #overlay-1 {
 	/* background-color: rgba(32, 30, 30, 0.52); */
 	background-color: rgba(33, 32, 42, 0.44);
+	background: url(../Images/Banner.png) no-repeat center top fixed;
 	/* background-color: rgba(17, 55, 46, 0.75); */
 	position: relative;
 }
@@ -150,9 +151,6 @@ body {
     font-size: 100px;
     margin: 0;
     margin-bottom: 15px;  
-    /* font-family: 'Lato', sans-serif; */
-    /* font-family: 'Source Sans Pro', sans-serif; */
-    /* font-family: 'Niconne', cursive; */
     font-weight: 400;
     font-family: 'Rouge Script', cursive;
     line-height: 90px;
