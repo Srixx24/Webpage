@@ -92,6 +92,12 @@ body {
 	border: none;
 }
 
+@media (min-width: 768px) {
+    .navihead {
+        float:left
+    }
+}
+
 .navbar-toggle {
 	padding: 0;
 	border: 0;
