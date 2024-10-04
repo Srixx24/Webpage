@@ -1342,8 +1342,8 @@ body {
     font-family: "Helvetica Neue",Helvetica,Arial,sans-serif;
     font-size: 14px;
     line-height: 1.42857143;
-    color: #333;
-    background-color: #fff
+    color: #94e4a9;
+    background-color: #4d2b2b
 }
 
 button,input,select,textarea {
@@ -1463,7 +1463,7 @@ hr {
 }
 
 .h1,h1 {
-    font-size: 36px
+    /*font-size: 36px*/
 }
 
 .h2,h2 {
