@@ -92,11 +92,6 @@ body {
 	border: none;
 }
 
-navihead {
-    float:left;
-	position: relative;
-}
-
 .navbar-toggle {
 	padding: 0;
 	border: 0;
