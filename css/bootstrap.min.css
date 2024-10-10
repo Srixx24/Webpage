@@ -1353,8 +1353,7 @@ button,input,select,textarea {
 
 a {
     color: #050506;
-    text-decoration: none;
-    font-size: 18px
+    text-decoration: none
 }
 
 a:focus,a:hover {
