@@ -1341,8 +1341,9 @@ body {
     font-family: "Helvetica Neue",Helvetica,Arial,sans-serif;
     font-size: 14px;
     line-height: 1.42857143;
-    color: #94e4a9;
-    background-color: #4d2b2b
+    color: #e1bbeb;
+    /*height: 200px;*/
+    background: url(../Images/FooterImage.png) no-repeat center top fixed
 }
 
 button,input,select,textarea {
