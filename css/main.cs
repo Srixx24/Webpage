@@ -115,7 +115,7 @@ body {
 
 #overlay-1 {
 	background-color: rgba(33, 32, 42, 0.44);
-	background: url(../Images/Banner.png) no-repeat center top fixed;
+	background: url(../Images/Banner.png) no-repeat center top;
 	position: relative;
 }
 

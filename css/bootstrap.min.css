@@ -3484,7 +3484,7 @@ a.thumbnail.active,a.thumbnail:focus,a.thumbnail:hover {
 
 .media-body {
     width: 10000px;
-    background: url(../Images/FooterImage.png) center top no-repeat scroll;
+    background: url(../Images/FooterImage.png) center top repeat scroll;
 }
 
 .media-object {
