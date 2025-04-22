@@ -543,18 +543,6 @@ i.fa.fa-envelope-o {
 	margin-top: -22px;
 }
 
-@media (max-width: 767px) {
-	.element-item {
-		width: 50%;
-	}
-}
-
-@media (max-width: 500px) {
-	.contact-info {
-		padding: 30px 10px;
-	}
-}
-
 @media only screen and (max-width : 640px) {
     .parallax{
     background: url(../Images/Banner) no-repeat center center;
