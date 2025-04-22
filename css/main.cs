@@ -155,6 +155,7 @@ body {
     font-weight: 400;
     line-height: 90px;
     color: #e1bbeb;
+	background-position: center;
 }
 
 @media (max-width: 768px) {
