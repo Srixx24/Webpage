@@ -26,7 +26,6 @@ h1, h2, h3, h4, h5,h6 {
 body {
 	font: 15px/23px "Lucida Sans","Liberation Sans","Lucida Sans Unicode","Lucida Grande",Verdana,Arial,Helvetica,sans-serif;
 	background: url(../Images/FooterImage.png) no-repeat center top fixed;
-	background-size: cover;
 }
 
 .btn {
@@ -251,9 +250,6 @@ body {
 }
 
 .btn-view {
-	/* border: 1px solid #35405f;
-	color: #35405f;
-	border-radius: 0; */
 	text-transform: uppercase;
 	color: lightseagreen;
 	border: 1px solid rgba(32, 178, 170, 0.86);
@@ -274,8 +270,6 @@ body {
 
 
 /*  Image hover effect */
-
-
 .effect-zoe:hover figcaption, 
 .effect-zoe:hover h2, 
 .effect-zoe:hover p.icon-links a{
@@ -420,13 +414,6 @@ body {
 }
 
 /* Contact */
-
-#contact {
-	background: url(../Images/FooterImage.png) no-repeat center center fixed;
-	background-size: cover;
-	color: #000000;
-}
-
 #contact .block-heading h1
 {
 	color: #fff;
