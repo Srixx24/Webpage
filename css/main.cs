@@ -143,6 +143,16 @@ body {
 	padding-top: 200px;
 }
 
+
+.home-title {
+	height: 700px; 
+	background: url('Images/Banner.png') no-repeat center bottom fixed;
+	padding-top: 150px;
+	color: #0c0c0c;
+	font-family: fantasy;
+	font-size: xx-large;
+}
+
 .pro-name {
     font-size: 100px;
     margin: 0;
