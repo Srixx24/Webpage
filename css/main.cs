@@ -148,9 +148,9 @@ body {
     margin: 0;
     margin-bottom: 15px;  
     font-weight: 400;
-    font-family: 'Rouge Script', cursive;
+    font-family: 'fantasy';
     line-height: 90px;
-    color: #fff;
+    color: #e1bbeb;
     letter-spacing: 1px;
     word-spacing: 6px;
     text-shadow: -2px -2px #000;
@@ -159,8 +159,8 @@ body {
 .tagline {
 	font-size: 27px;
 	margin-bottom: 60px;
-	color: #fff;
-	font-family: 'Roboto', sans-serif;
+	color: #e1bbeb;
+	font-family: 'fantasy', sans-serif;
 	font-weight: 300;
 	line-height: 56px;
 	word-spacing: 2px;
@@ -182,27 +182,6 @@ body {
 	top: 0px;
 }
 
-.btn-hire {
-	text-transform: uppercase;
-	color: #111;
-	border: 1px solid rgb(136, 138, 145);
-	font-family: 'Oxygen', sans-serif;
-	font-weight: 300;
-	word-spacing: 5px;
-	letter-spacing: 1px;
-	box-shadow: 0 3px 1px 0 rgba(20, 20, 26, 0.55);
-	border-radius: 0;
-	font-size: 18px;
-	background-color: rgba(247, 255, 248, 1);
-	padding: 16px 48px;
-}
-
-.btn-hire:hover {
-	color: #fff;
-	border: 1px solid #878A91;
-	background-color: rgba(32, 36, 47, 0.94);
-}
-
 /* Projects */
 
 #portfolio {
@@ -215,7 +194,6 @@ body {
 	font-weight: 400;
 	
     font-size: 55px;
-    font-family: 'Milonga', cursive;
 }
 
 .portfolio-item img {
@@ -258,7 +236,7 @@ body {
 	text-transform: uppercase;
 	color: lightseagreen;
 	border: 1px solid rgba(32, 178, 170, 0.86);
-	font-family: 'Oxygen', sans-serif;
+	font-family: 'fantasy', sans-serif;
 	font-weight: 300;
 	word-spacing: 5px;
 	letter-spacing: 1px;
@@ -329,32 +307,8 @@ body {
 	font-size: 22px;
 }
 
-/* More About Me */
-
-/* #resume {
-	background: url(Images/.png) no-repeat center center fixed;
-	background-size: cover;
-	color: #fff;
-}
-
-.pro-stat {
-	font-size: 20px;
-	text-transform: uppercase;
-	text-align: center;
-	font-style: italic;
-}
-
-.proj-name {
-	font-family: Pacifico;
-	font-size: 150px;
-	text-align: center;
-	line-height: 90%;
-	margin-bottom: 80px;
-} */
 #resume .block-heading h1 {
     color: #fff;
-	
-    font-family: 'Milonga', cursive;
 	font-weight: 400;
 	
     font-size: 55px;
