@@ -115,7 +115,7 @@ body {
 
 #overlay-1 {
 	background-color: rgba(33, 32, 42, 0.44);
-	background: url(../Images/Banner.png) no-repeat center top;
+	background: url(../Images/Banner.png);
 	position: relative;
 }
 
@@ -142,7 +142,6 @@ body {
 	padding-top: 200px;
 }
 
-
 .home-title {
 	height: 700px; 
 	background: url(../Images/Banner.png) no-repeat center bottom scroll;
@@ -153,7 +152,6 @@ body {
     margin: 0;
     margin-bottom: 15px;  
     font-weight: 400;
-    line-height: 90px;
     color: #e1bbeb;
 }
 
