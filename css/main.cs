@@ -149,8 +149,13 @@ body {
 	background: url(../Images/Banner.png) no-repeat center bottom scroll;
 	padding-top: 150px;
 	color: #0c0c0c;
-	font-family: 'fantasy';
-	font-size: xx-large;
+	font-family: 'cursive';
+	font-size: 100px;
+    margin: 0;
+    margin-bottom: 15px;  
+    font-weight: 400;
+    line-height: 90px;
+    color: #e1bbeb;
 }
 
 @media (max-width: 768px) {
@@ -164,7 +169,7 @@ body {
     margin: 0;
     margin-bottom: 15px;  
     font-weight: 400;
-    font-family: 'fantasy';
+    font-family: 'cursive';
     line-height: 90px;
     color: #e1bbeb;
     letter-spacing: 1px;
