@@ -115,10 +115,8 @@ body {
 /* Blur styles */
 
 #overlay-1 {
-	/* background-color: rgba(32, 30, 30, 0.52); */
 	background-color: rgba(33, 32, 42, 0.44);
 	background: url(../Images/Banner.png) no-repeat center top fixed;
-	/* background-color: rgba(17, 55, 46, 0.75); */
 	position: relative;
 }
 
@@ -129,8 +127,6 @@ body {
 
 .overlay-3 {
 	padding: 60px 0;
-	/* background-color: rgba(9, 20, 39, 0.83); */
-	/* background-color: rgba(24, 77, 77, 0.93); */
 	background-color: rgba(33, 103, 88, 0.9);
 }
 
@@ -626,8 +622,3 @@ i.fa.fa-envelope-o {
     background-size: cover;
     }
 }
-
-/*
-License: GNU General Public License v3
-License URI: http://www.gnu.org/licenses/gpl-3.0.txt
-*/
