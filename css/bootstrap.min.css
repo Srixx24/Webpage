@@ -293,7 +293,9 @@ body {
     line-height: 1.42857143;
     color: #e1bbeb;
     /*height: 200px;*/
-    background: url(../Images/FooterImage.png) no-repeat center top fixed;
+    background: url(../Images/FooterImage.png) no-repeat center top;
+    background-size: stretch;
+    background-attachment: fixed;
 }
 
 button,input,select,textarea {
@@ -3486,8 +3488,7 @@ a.thumbnail.active,a.thumbnail:focus,a.thumbnail:hover {
     width: 10000px;
     background: url(../Images/FooterImage.png) center top repeat;
     background-attachment: scroll;
-    background-size: cover;
-
+    background-size: stretch;
 }
 
 .media-object {
