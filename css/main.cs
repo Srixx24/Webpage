@@ -25,8 +25,8 @@ h1, h2, h3, h4, h5,h6 {
 
 body {
 	font: 15px/23px "Lucida Sans","Liberation Sans","Lucida Sans Unicode","Lucida Grande",Verdana,Arial,Helvetica,sans-serif;
-	background: url(../Images/FooterImage.png) no-repeat center top fixed
-
+	background: url(../Images/FooterImage.png) no-repeat center top fixed;
+	background-size: cover;
 }
 
 .btn {
@@ -151,6 +151,12 @@ body {
 	color: #0c0c0c;
 	font-family: 'fantasy';
 	font-size: xx-large;
+}
+
+@media (max-width: 768px) {
+    .home-title {
+        background: url(../Images/Banner.png) no-repeat center top;
+    }
 }
 
 .pro-name {
