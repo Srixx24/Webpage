@@ -452,6 +452,9 @@ p {
     .lead {
         font-size:21px
     }
+    .home-title {
+        background: url(../Images/Banner.png) no-repeat center top;
+    }
 }
 
 .small,small {
@@ -3440,50 +3443,6 @@ a.badge:focus,a.badge:hover {
     margin-left: 3px
 }
 
-.jumbotron {
-    padding: 30px 15px;
-    margin-bottom: 30px;
-    color: inherit;
-    background-color: #eee
-}
-
-.jumbotron .h1,.jumbotron h1 {
-    color: inherit
-}
-
-.jumbotron p {
-    margin-bottom: 15px;
-    font-size: 21px;
-    font-weight: 200
-}
-
-.jumbotron>hr {
-    border-top-color: #d5d5d5
-}
-
-.container .jumbotron,.container-fluid .jumbotron {
-    border-radius: 6px
-}
-
-.jumbotron .container {
-    max-width: 100%
-}
-
-@media screen and (min-width: 768px) {
-    .jumbotron {
-        padding:48px 0
-    }
-
-    .container .jumbotron,.container-fluid .jumbotron {
-        padding-right: 60px;
-        padding-left: 60px
-    }
-
-    .jumbotron .h1,.jumbotron h1 {
-        font-size: 63px
-    }
-}
-
 .thumbnail {
     display: block;
     padding: 4px;
@@ -3521,13 +3480,11 @@ a.thumbnail.active,a.thumbnail:focus,a.thumbnail:hover {
 
 .media,.media-body {
     overflow: hidden;
-    zoom:1
 }
-    
 
 .media-body {
     width: 10000px;
-    background: url(../Images/FooterImage.png) no-repeat center top;
+    background: url(../Images/FooterImage.png) center top;
 }
 
 .media-object {

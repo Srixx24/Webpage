@@ -555,25 +555,10 @@ i.fa.fa-envelope-o {
 	line-height: 43px;
 	margin-top: -22px;
 }
-/* Responsive styles */
-
-@media (max-width: 991px) {
-	.element-item {
-		width: 33.33%;
-	}
-}
 
 @media (max-width: 767px) {
 	.element-item {
 		width: 50%;
-	}
-
-	#site-header .pull-right {
-		float: none !important;
-	}
-
-	.copyright, .designed-by {
-		text-align: center;
 	}
 }
 
@@ -585,7 +570,7 @@ i.fa.fa-envelope-o {
 
 @media only screen and (max-width : 640px) {
     .parallax{
-    background: url(../Images/Banner) no-repeat center center fixed #444;
+    background: url(../Images/Banner) no-repeat center center;
     background-attachment: fixed !important;
     -webkit-background-size: 100%;
     -moz-background-size: 100%;
