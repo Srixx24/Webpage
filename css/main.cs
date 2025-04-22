@@ -25,7 +25,7 @@ h1, h2, h3, h4, h5,h6 {
 
 body {
 	font: 15px/23px "Lucida Sans","Liberation Sans","Lucida Sans Unicode","Lucida Grande",Verdana,Arial,Helvetica,sans-serif;
-	background-color: rgb(224, 247, 246);
+	background: url(../Images/FooterImage.png) no-repeat center top fixed
 
 }
 
