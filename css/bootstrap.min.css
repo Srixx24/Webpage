@@ -455,7 +455,7 @@ p {
         font-size:21px
     }
     .home-title {
-        background: url(../Images/Banner.png) no-repeat center top;
+        background: url(../Images/Banner.png) no-repeat center bottom;
     }
 }
 
@@ -644,7 +644,9 @@ dd {
         text-overflow: ellipsis;
         white-space: nowrap
     }
-
+    .home-title {
+        background: url(../Images/Banner.png) no-repeat center bottom;
+    }
     .dl-horizontal dd {
         margin-left: 180px
     }
@@ -4701,32 +4703,7 @@ button.close {
     text-shadow: none
 }
 
-@media screen and (min-width: 768px) {
-    .carousel-control .glyphicon-chevron-left,.carousel-control .glyphicon-chevron-right,.carousel-control .icon-next,.carousel-control .icon-prev {
-        width:30px;
-        height: 30px;
-        margin-top: -15px;
-        font-size: 30px
-    }
 
-    .carousel-control .glyphicon-chevron-left,.carousel-control .icon-prev {
-        margin-left: -15px
-    }
-
-    .carousel-control .glyphicon-chevron-right,.carousel-control .icon-next {
-        margin-right: -15px
-    }
-
-    .carousel-caption {
-        right: 20%;
-        left: 20%;
-        padding-bottom: 30px
-    }
-
-    .carousel-indicators {
-        bottom: 20px
-    }
-}
 
 .btn-group-vertical>.btn-group:after,.btn-group-vertical>.btn-group:before,.btn-toolbar:after,.btn-toolbar:before,.clearfix:after,.clearfix:before,.container-fluid:after,.container-fluid:before,.container:after,.container:before,.dl-horizontal dd:after,.dl-horizontal dd:before,.form-horizontal .form-group:after,.form-horizontal .form-group:before,.modal-footer:after,.modal-footer:before,.nav:after,.nav:before,.navbar-collapse:after,.navbar-collapse:before,.navbar-header:after,.navbar-header:before,.navbar:after,.navbar:before,.pager:after,.pager:before,.panel-body:after,.panel-body:before,.row:after,.row:before {
     display: table;

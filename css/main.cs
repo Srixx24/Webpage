@@ -146,7 +146,7 @@ body {
 
 .home-title {
 	height: 700px; 
-	background: url(../Images/Banner.png) no-repeat center bottom scroll;
+	background: url(../Images/Banner.png) no-repeat center bottom fixed;
 	padding-top: 150px;
 	color: #0c0c0c;
 	font-family: 'cursive';
@@ -159,7 +159,7 @@ body {
 
 @media (max-width: 768px) {
     .home-title {
-        background: url(../Images/Banner.png) no-repeat center top;
+        background: url(../Images/Banner.png) no-repeat center bottom;
     }
 }
 
@@ -171,9 +171,6 @@ body {
     font-family: 'cursive';
     line-height: 90px;
     color: #e1bbeb;
-    letter-spacing: 1px;
-    word-spacing: 6px;
-    text-shadow: -2px -2px #000;
 }
 
 .tagline {
