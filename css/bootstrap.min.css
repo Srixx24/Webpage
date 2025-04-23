@@ -450,7 +450,7 @@ p {
     line-height: 1.4
 }
 
-@media (min-width: 768px) {
+@media (min-width: 200px) {
     .lead {
         font-size:21px
     }
@@ -644,9 +644,6 @@ dd {
         text-overflow: ellipsis;
         white-space: nowrap
     }
-    .home-title {
-        background: url(../Images/Banner.png) no-repeat center bottom fixed;
-    }
     .dl-horizontal dd {
         margin-left: 180px
     }
@@ -767,9 +764,9 @@ pre code {
     margin-left: auto
 }
 
-@media (min-width: 768px) {
+@media (min-width: 250px) {
     .container {
-        width:750px
+        width:240px
     }
 }
 

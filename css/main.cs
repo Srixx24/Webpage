@@ -157,7 +157,7 @@ body {
     color: #e1bbeb;
 }
 
-@media (max-width: 768px) {
+@media (max-width: 200px) {
     .home-title {
         background: url(../Images/Banner.png) no-repeat center bottom fixed;
     }
@@ -540,7 +540,7 @@ i.fa.fa-envelope-o {
 	margin-top: -22px;
 }
 
-@media only screen and (max-width : 640px) {
+@media only screen and (max-width : 200px) {
     .parallax{
     background: url(../Images/Banner) no-repeat center center;
     background-attachment: fixed !important;
