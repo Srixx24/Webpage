@@ -284,7 +284,8 @@ td,th {
 
 html {
     font-size: 10px;
-    -webkit-tap-highlight-color: rgba(0,0,0,0)
+    -webkit-tap-highlight-color: rgba(0,0,0,0);
+    width: fit-content;
 }
 
 body {
@@ -292,9 +293,7 @@ body {
     font-size: 14px;
     line-height: 1.42857143;
     color: #e1bbeb;
-    /*height: 200px;*/
-    background: url(../Images/FooterImage.png) no-repeat center top;
-    background-size: scroll;
+    background: url(../Images/FooterImage.png) repeat center top;
     background-attachment: fixed;
 }
 
