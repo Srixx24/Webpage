@@ -26,7 +26,7 @@ h1, h2, h3, h4, h5,h6 {
 body {
 	font: 15px/23px "Lucida Sans","Liberation Sans","Lucida Sans Unicode","Lucida Grande",Verdana,Arial,Helvetica,sans-serif;
 	background: url(../Images/FooterImage.png) no-repeat center top;
-	background-size: stretch;
+	background-size: scroll;
     background-attachment: fixed;
 }
 
@@ -159,7 +159,7 @@ body {
 
 @media (max-width: 768px) {
     .home-title {
-        background: url(../Images/Banner.png) no-repeat center bottom;
+        background: url(../Images/Banner.png) no-repeat center bottom fixed;
     }
 }
 

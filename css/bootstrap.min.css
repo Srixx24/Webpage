@@ -294,7 +294,7 @@ body {
     color: #e1bbeb;
     /*height: 200px;*/
     background: url(../Images/FooterImage.png) no-repeat center top;
-    background-size: stretch;
+    background-size: scroll;
     background-attachment: fixed;
 }
 
@@ -455,7 +455,7 @@ p {
         font-size:21px
     }
     .home-title {
-        background: url(../Images/Banner.png) no-repeat center bottom;
+        background: url(../Images/Banner.png) no-repeat center bottom fixed;
     }
 }
 
@@ -645,7 +645,7 @@ dd {
         white-space: nowrap
     }
     .home-title {
-        background: url(../Images/Banner.png) no-repeat center bottom;
+        background: url(../Images/Banner.png) no-repeat center bottom fixed;
     }
     .dl-horizontal dd {
         margin-left: 180px
@@ -3490,7 +3490,7 @@ a.thumbnail.active,a.thumbnail:focus,a.thumbnail:hover {
     width: 10000px;
     background: url(../Images/FooterImage.png) center top repeat;
     background-attachment: scroll;
-    background-size: stretch;
+    background-size: fixed;
 }
 
 .media-object {
